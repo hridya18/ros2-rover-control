@@ -1,4 +1,4 @@
-# ROS 2 Autonomous Rover Decision Suite
+# ROS 2 Autonomous Rover Controller
 
 A lightweight, modular ROS 2 Jazzy workspace package implementing a publisher/subscriber topology to simulate a basic autonomous rover obstacle avoidance mechanism.
 
